@@ -1,3 +1,3 @@
 # Logbook
 
-WIP
+A CLI tool for managing your logbook.
